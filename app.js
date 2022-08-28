@@ -56,3 +56,6 @@ server.listen(port, async () => {
 });
 
 module.exports = app;
+
+//the postman collection for the same can be imported from here
+//https://www.getpostman.com/collections/d23ece08d2cd033bf19b
